@@ -1,0 +1,89 @@
+# MTL file for Nativity Cathedral of Chisinau
+
+newmtl Wall_Cream
+Kd 0.9300 0.9000 0.8300
+Ka 0.2000 0.2000 0.2000
+Ks 0.1000 0.1000 0.1000
+Ns 10.0
+d 1.00
+illum 2
+
+newmtl Stone_White
+Kd 0.9600 0.9500 0.9300
+Ka 0.2000 0.2000 0.2000
+Ks 0.1500 0.1500 0.1500
+Ns 20.0
+d 1.00
+illum 2
+
+newmtl Stylobate_Granite
+Kd 0.4800 0.4700 0.4600
+Ka 0.1500 0.1500 0.1500
+Ks 0.1000 0.1000 0.1000
+Ns 15.0
+d 1.00
+illum 2
+
+newmtl Roof_Zinc
+Kd 0.3200 0.3500 0.3800
+Ka 0.1500 0.1500 0.1500
+Ks 0.3500 0.3500 0.3500
+Ns 40.0
+d 1.00
+illum 2
+
+newmtl Dome_Metal
+Kd 0.3400 0.3900 0.4400
+Ka 0.2000 0.2000 0.2000
+Ks 0.5000 0.5000 0.5500
+Ns 60.0
+d 1.00
+illum 2
+
+newmtl Gold_Cross
+Kd 0.9200 0.7400 0.1800
+Ka 0.3000 0.2500 0.1000
+Ks 0.9000 0.8000 0.3000
+Ns 120.0
+d 1.00
+illum 2
+
+newmtl Wood_Door
+Kd 0.3200 0.2000 0.1100
+Ka 0.1000 0.0800 0.0500
+Ks 0.1000 0.1000 0.1000
+Ns 15.0
+d 1.00
+illum 2
+
+newmtl Window_Glass
+Kd 0.1200 0.1800 0.2400
+Ka 0.1000 0.1000 0.1000
+Ks 0.9000 0.9000 0.9500
+Ns 150.0
+d 0.85
+illum 2
+
+newmtl Bronze_Bell
+Kd 0.5800 0.4200 0.2600
+Ka 0.2000 0.1500 0.1000
+Ks 0.6000 0.5000 0.3000
+Ns 50.0
+d 1.00
+illum 2
+
+newmtl Plaza_Paving
+Kd 0.6500 0.6300 0.6000
+Ka 0.2000 0.2000 0.2000
+Ks 0.0500 0.0500 0.0500
+Ns 5.0
+d 1.00
+illum 2
+
+newmtl Park_Lawn
+Kd 0.3000 0.4400 0.2200
+Ka 0.1000 0.1500 0.1000
+Ks 0.0200 0.0200 0.0200
+Ns 5.0
+d 1.00
+illum 2
